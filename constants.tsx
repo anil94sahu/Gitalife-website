@@ -1,1 +1,1 @@
-export const PREFIX = process.env.PUBLIC_NEXT_URL_PREFIX;
+export const PREFIX = process.env.NEXT_BASE_PATH || ''
