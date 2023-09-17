@@ -1,0 +1,1 @@
+export const PREFIX = process.env.PUBLIC_NEXT_URL_PREFIX;
